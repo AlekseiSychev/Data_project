@@ -123,10 +123,9 @@ dmypy.json
 .pyre/
 
 # File
-settings.py
 *.txt
 *.csv
 .vscode/
 logs
-
+env
 vk_config.py
